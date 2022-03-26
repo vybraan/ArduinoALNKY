@@ -36,6 +36,16 @@ header{
     color: red;
 }
 
+.btn_on:hover{
+    background-color: rgb(2, 56, 2);
+    color: #8f8f8f;
+}
+
+.btn_off:hover{
+    background-color: rgb(109, 64, 64);
+    color: #ffffff;
+}
+
 footer{
     text-align: center;
     margin-top: 3.2rem;
